@@ -1,4 +1,5 @@
 //ERCİYES ÜNİVERSİTESİ, MÜHENDİSLİK FAKÜLTESİ, BİLGİSAYAR MÜHENDİSLİĞİ, MOBILE APP DEVELOPMENT, FEHİM KÖYLÜ
+//Öğrenci Bilgileri : AHMET GÜVEN, 1030521028
 import 'package:flutter/material.dart';
 
 void main() {
