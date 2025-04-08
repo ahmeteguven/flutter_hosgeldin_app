@@ -1,5 +1,12 @@
-//ERCİYES ÜNİVERSİTESİ, MÜHENDİSLİK FAKÜLTESİ, BİLGİSAYAR MÜHENDİSLİĞİ, MOBILE APP DEVELOPMENT, FEHİM KÖYLÜ
-//Öğrenci Bilgileri : AHMET GÜVEN, 1030521028
+//Üniversite : ERCİYES ÜNİVERSİTESİ
+//Fakülte : MÜHENDİSLİK FAKÜLTESİ
+//Bölüm Adı : BİLGİSAYAR MÜHENDİSLİĞİ
+//Ders : MOBILE APP DEVELOPMENT
+//Öğreni Üyesi : FEHİM KÖYLÜ
+//Öğrenci Ad/Soyad : AHMET GÜVEN
+//Öğrenci no: 1030521028
+
+
 import 'package:flutter/material.dart';
 
 void main() {
